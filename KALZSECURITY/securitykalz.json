@@ -1,3 +1,5 @@
 {
-  "SECURITY": true
+  "SECURITY": true,
+  "MAINTENANCE": false,
+  "BOT_ON": true
 }
